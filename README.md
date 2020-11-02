@@ -5,9 +5,9 @@ Getting Started
 
 TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
 
-    Installation process
-    Software dependencies
-    Latest releases
+    Build Process
+    Install dependencies
+    Test releases
     API references
 
 Build and Test
